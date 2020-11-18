@@ -20,7 +20,7 @@ npm install underscore@1.3 log@1.3.1 bison@1.1.1 websocket@1.0.8 sanitizer@0.1.0
 mv node_modules/@gitterhq/websocket-server node_modules/websocket-server
 rm -r node_modules/@gitterhq
 
-git clone https://github.com/mozilla/BrowserQuest.git
+git clone https://github.com/ColoradoStark/BrowserQuest.git
 
 cd BrowserQuest
 mv server/config_local.json-dist server/config_local.json
