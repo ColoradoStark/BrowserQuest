@@ -3,7 +3,7 @@
 apt-get update
 export DEBIAN_FRONTEND=noninteractive
 
-apt-get -yq install git curl python build-essential libssl-dev git-core vim wget
+apt-get -yq install git curl python build-essential libssl-dev git-core 
 
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash
@@ -21,9 +21,6 @@ mv node_modules/@gitterhq/websocket-server node_modules/websocket-server
 rm -r node_modules/@gitterhq
 
 git clone https://github.com/ColoradoStark/BrowserQuest.git
-
-cd BrowserQuest
-mv server/config_local.json-dist server/config_local.json
 
 cd client
 npm install --global http-server@0.12.3
