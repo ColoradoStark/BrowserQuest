@@ -30,5 +30,8 @@ nvm use 0.6.8
 cd ..
 node server/js/main.js 
 
+
+
+nvm use 10.23.0
 cd /
 http-server -p 80 ./BrowserQuest/client
