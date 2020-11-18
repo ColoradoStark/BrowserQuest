@@ -22,11 +22,12 @@ rm -r node_modules/@gitterhq
 
 git clone https://github.com/ColoradoStark/BrowserQuest.git
 
-cd client
+cd BrowserQuest/client
 npm install --global http-server@0.12.3
 
 nvm use 0.6.8
 
+cd ..
 node server/js/main.js 
 
 cd /
