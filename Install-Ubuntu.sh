@@ -25,8 +25,6 @@ git clone https://github.com/ColoradoStark/BrowserQuest.git
 cd client
 npm install --global http-server@0.12.3
 
-
-
 nvm use 0.6.8
 
 node server/js/main.js 
