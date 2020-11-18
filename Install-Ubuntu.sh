@@ -32,6 +32,6 @@ node server/js/main.js
 
 
 
-nvm use 10.23.0
-cd /
-http-server -p 80 ./BrowserQuest/client
+#nvm use 10.23.0
+#cd /
+#http-server -p 80 ./BrowserQuest/client
