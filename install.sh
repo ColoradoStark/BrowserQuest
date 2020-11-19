@@ -23,6 +23,10 @@ rm -r node_modules/@gitterhq
 git clone https://github.com/ColoradoStark/BrowserQuest.git
 
 cd BrowserQuest/client
+
+#The next line was necessary on AWS
+#npm config set strict-ssl false   
+   
 npm install --global http-server@0.12.3
 
 nvm use 0.6.8
