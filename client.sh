@@ -34,5 +34,5 @@ npm install --global http-server@0.12.3
 
 
 nvm use 10.23.0
-cd /
-http-server -p 80 ./BrowserQuest/client
+#cd /
+#http-server -p 80 ./BrowserQuest/client
