@@ -1,6 +1,6 @@
 # BrowserQuest
 
-[![Screenshot](http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)]
+(http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)
 
 [Play the RPG Demo:](http://play.jrpg.com)
 
