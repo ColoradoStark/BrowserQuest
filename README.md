@@ -11,7 +11,7 @@ I wasn't able to find a good running version or instructions on how to set this 
 
 To run the program on a local machine with Docker type:
 
-```docker container run -it -p 80:80 -p 8000:8000 dockerquest bash```
+```docker container run -it -p 80:80 -p 8000:8000 coloradostark/browserquest bash```
 
 You will see a command prompt, type the following:
 
