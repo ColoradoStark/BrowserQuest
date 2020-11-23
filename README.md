@@ -17,7 +17,9 @@ You will see a command prompt, type the following:
 The server is now running.  Now Open a new command prompt session and then type the following:
 
 ```nvm use 10.23.0```
+
 ```cd /```
+
 ```http-server -p 80 ./BrowserQuest/client```
 
 That is all you need to do.  It should be running and you can test it by typing 127.0.0.1 in the browser.
