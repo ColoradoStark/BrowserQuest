@@ -35,6 +35,10 @@ More Documentation is located in client and server directories.
 Code is licensed under MPL 2.0. Content is licensed under CC-BY-SA 3.0.
 See the LICENSE file for details.
 
+## Video
+
+[![Screenshot](http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)](http://www.youtube.com/watch?v=kYcNJQ3Y6Sg)
+
 ## Credits
 
 2020 Port to Docker by:
