@@ -1,7 +1,5 @@
 # BrowserQuest
 
-[!Screenshot(http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)]
-
 [Play the RPG Demo:](http://play.jrpg.com)
 
 
@@ -32,11 +30,6 @@ That is all you need to do.  It should be running and you can test it by typing 
 
 More Documentation is located in client and server directories.
 
-## Video
-
-[![Screenshot](http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)](http://www.youtube.com/watch?v=kYcNJQ3Y6Sg)
-
-
 ## License
 
 Code is licensed under MPL 2.0. Content is licensed under CC-BY-SA 3.0.
@@ -52,3 +45,7 @@ Original Project Created by [Little Workshop](http://www.littleworkshop.fr):
 
 - Franck Lecollinet - [@whatthefranck](http://twitter.com/whatthefranck)
 - Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
+
+## Video
+
+[![Screenshot](http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)](http://www.youtube.com/watch?v=kYcNJQ3Y6Sg)
