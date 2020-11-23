@@ -46,6 +46,4 @@ Original Project Created by [Little Workshop](http://www.littleworkshop.fr):
 - Franck Lecollinet - [@whatthefranck](http://twitter.com/whatthefranck)
 - Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
 
-## Video
 
-[![Screenshot](http://img.youtube.com/vi/kYcNJQ3Y6Sg/0.jpg)](http://www.youtube.com/watch?v=kYcNJQ3Y6Sg)
