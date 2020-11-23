@@ -30,7 +30,7 @@ The server is now running.  Now Open a new command prompt session and then type 
 That is all you need to do.  It should be running and you can test it by typing 127.0.0.1 in the browser.
 
 
-More Documentation is located in client and server directories.
+More documentation on getting a production server running is located in client and server directories.
 
 ## License
 
