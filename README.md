@@ -2,7 +2,7 @@
 
 BrowserQuest was a HTML5/JavaScript multiplayer game experiment setup in 2012 by the Mozilla project. The project was not being maintained or updated, the website went down some of the dependencies disappeared. The javascript language also had major changes in 2016 which created issues with the code.
 
-I wasn't able to find a good running version or instructions on how to set this up that still worked anywhere. The goal of this repository fork is to have a stable version that works and can be deployed on an Ubuntu web server via Bash Script, or a on a vagrant virtual machine, or on a Docker container.
+I wasn't able to find a good running version or instructions on how to set this up that still worked anywhere. The goal of this repository fork is to have a stable version that works and can be deployed on a Docker container.
 
 ## Documentation
 
