@@ -21,6 +21,8 @@ You will see a command prompt, type the following:
 
 The server is now running.  Now Open a new command prompt session and then type the following:
 
+```docker container exec -it YOUR-CONTAINER-ID-NUMBER bash```
+
 ```nvm use 10.23.0```
 
 ```cd /```
